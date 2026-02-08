@@ -14,7 +14,7 @@ Pick any distribution (exponential, uniform, chi-squared, beta, poisson, bimodal
 
 ## Live App
 
-[https://clt-explorer.streamlit.app]([https://clt-explorer.streamlit.app](https://clt-explorer-ay7sruplxgzdd9c4yq4je5.streamlit.app/))
+[[https://clt-explorer.streamlit.app]([https://clt-explorer.streamlit.app](https://clt-explorer-ay7sruplxgzdd9c4yq4je5.streamlit.app/))](https://clt-explorer-ay7sruplxgzdd9c4yq4je5.streamlit.app/)
 
 ## Run Locally
 
